@@ -4,7 +4,7 @@
 	  "type": "dark",
 	  "colors": {
 		"activityBar.background": "#242424",
-		"activityBar.border": "#24242460",
+		"activityBar.border": "#07FAFF",
 		"activityBar.foreground": "#C4F8FF",
 		"activityBarBadge.background": "#FFC2FE",
 		"activityBarBadge.foreground": "#242424",
@@ -159,7 +159,7 @@
 		"statusBar.debuggingBackground": "#07FAFF",
 		"statusBar.debuggingForeground": "#FFDEFA",
 		"statusBar.foreground": "#000000",
-		"statusBar.noFolderBackground": "#242424",
+		"statusBar.noFolderBackground": "#87F5FF",
 		"statusBarItem.hoverBackground": "#FF7FF420",
 		"statusBarItem.remoteBackground": "#FF7FF4",
 		"statusBarItem.remoteForeground": "#242424",
@@ -214,7 +214,7 @@
 			"storage.modifier"
 		  ],
 		  "settings": {
-			"foreground": "#07FAFF"
+			"foreground": "#B2F7EF"
 		  }
 		},
 		{
@@ -243,7 +243,7 @@
 			"constant.other.php"
 		  ],
 		  "settings": {
-			"foreground": "#07FAFF"
+			"foreground": "#A8D8F0"
 		  }
 		},
 		{
@@ -286,7 +286,7 @@
 			"entity.name.tag.reference.scss"
 		  ],
 		  "settings": {
-			"foreground": "#A7A8AF"
+			"foreground": "#FFD8FF"
 		  }
 		},
 		{
@@ -415,7 +415,7 @@
 			"source.sass keyword.control"
 		  ],
 		  "settings": {
-			"foreground": "#FFC2FE"
+			"foreground": "#FFD8FF"
 		  }
 		},
 		{
@@ -448,7 +448,7 @@
 			"punctuation.separator.key-value.html"
 		  ],
 		  "settings": {
-			"foreground": "#07FAFF"
+			"foreground": "#7BDFF2"
 		  }
 		},
 		{
@@ -541,7 +541,7 @@
 			"support.function"
 		  ],
 		  "settings": {
-			"foreground": "#07FAFF"
+			"foreground": "#FFD8FF"
 		  }
 		},
 		{
@@ -558,7 +558,7 @@
 			"meta.object-literal.key"
 		  ],
 		  "settings": {
-			"foreground": "#C4F8FF"
+			"foreground": "#48A8FF"
 		  }
 		},
 		{
