@@ -2,16 +2,16 @@
   "name": "agenomicsphd-code",
   "displayName": "agenomicsphd-code",
   "description": "cute, cozy colour theme made by @agenomicsphd! <3 ",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "agenomicsphd",
   "engines": {
     "vscode": "^1.33.0"
   },
   "repository": {
     "type": "git",
-    "url" : "https://github.com/livygrant97/agenomicsphd-code"
+    "url": "https://github.com/livygrant97/agenomicsphd-code"
   },
-  "keywords":[
+  "keywords": [
     "pink theme",
     "pink",
     "pink blue",
