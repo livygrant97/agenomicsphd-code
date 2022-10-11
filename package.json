@@ -1,0 +1,28 @@
+{
+  "name": "agenomicsphd-code",
+  "displayName": "agenomicsphd-code",
+  "description": "cute, cozy colour theme made by @agenomicsphd! <3 ",
+  "version": "0.0.1",
+  "publisher": "agenomicsphd"
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "keywords":[
+    "pink theme",
+    "pink",
+    "pink blue",
+    "agenomicsphd"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "agenomicsphd-code",
+        "uiTheme": "vs-dark",
+        "path": "./themes/agenomicsphd-code-color-theme.json"
+      }
+    ]
+  }
+}
