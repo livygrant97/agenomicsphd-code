@@ -34,6 +34,12 @@
 		"editor.selectionHighlightBorder": "#FFC2FEf0",
 		"editorBracketMatch.background": "#242424",
 		"editorBracketMatch.border": "#07FAFF7f",
+		"editorBracketHighlight.foreground1": "#D890FF",
+        "editorBracketHighlight.foreground2":"#FFD8FF",
+        "editorBracketHighlight.foreground3": "#F0C0FF",
+        "editorBracketHighlight.foreground4": "#90A8FF",
+        "editorBracketHighlight.foreground5":"#F000FF",
+        "editorBracketHighlight.foreground6": "#30C0FF",
 		"editorCursor.foreground": "#07FAFF",
 		"editorError.foreground": "#FFB2F670",
 		"editorGroup.border": "#24242430",
@@ -156,8 +162,8 @@
 		"sideBarTitle.foreground": "#C4F8FF",
 		"statusBar.background": "#87F5FF",
 		"statusBar.border": "#24242460",
-		"statusBar.debuggingBackground": "#07FAFF",
-		"statusBar.debuggingForeground": "#FFDEFA",
+		"statusBar.debuggingBackground": "#FFDEFA",
+		"statusBar.debuggingForeground": "#242424",
 		"statusBar.foreground": "#000000",
 		"statusBar.noFolderBackground": "#87F5FF",
 		"statusBarItem.hoverBackground": "#FF7FF420",
@@ -201,7 +207,7 @@
 		"titleBar.inactiveBackground": "#242424",
 		"titleBar.inactiveForeground": "#FF7FF4",
 		"tree.indentGuidesStroke": "#424242",
-		"widget.shadow": "#24242430",
+		"widget.shadow": "#24242430"
 	  },
 	  "tokenColors": [
 		{
@@ -321,7 +327,7 @@
 			"string.quoted.single.scss"
 		  ],
 		  "settings": {
-			"foreground": "#A7A8AF"
+			"foreground": "#B8EFEB"
 		  }
 		},
 		{
@@ -339,10 +345,11 @@
 			"punctuation.definition.comment.scss",
 			"punctuation.definition.comment.js",
 			"punctuation.definition.comment.html",
-			"comment.block.html"
+			"comment.block.html",
+			"comment.line.number-sign"
 		  ],
 		  "settings": {
-			"foreground": "#6D6F7C"
+			"foreground": "#b8efeb"
 		  }
 		},
 		{
@@ -350,7 +357,7 @@
 			"text.html.derivative"
 		  ],
 		  "settings": {
-			"foreground": "#A7A8AF"
+			"foreground": "#FFD8FF"
 		  }
 		},
 		{
@@ -541,7 +548,7 @@
 			"support.function"
 		  ],
 		  "settings": {
-			"foreground": "#FFD8FF"
+			"foreground": "#18D8FF"
 		  }
 		},
 		{
@@ -558,7 +565,7 @@
 			"meta.object-literal.key"
 		  ],
 		  "settings": {
-			"foreground": "#48A8FF"
+			"foreground": "#D8F0FF"
 		  }
 		},
 		{
@@ -642,7 +649,8 @@
 			"punctuation.definition.list_item.markdown"
 		  ],
 		  "settings": {
-			"foreground": "#C4F8FF"
+			"foreground": "#F0A8F0"
+
 		  }
 		},
 		{
